@@ -1,0 +1,144 @@
+{
+  "restrictedIP" : null,
+  "restrictedAccount" : null,
+  "initializationResult" : {
+    "gameWarnings" : {
+      "serverConnectionLost" : "You lost connection with server! Please, check your internet connection.<br/><br/>\r\n             <div class='alert-recommendation-title'>There are some recommendations how to prevent disconnects playing matches</div>\r\n             <ol class='alert-recommendation-items'>\r\n               <li>Stay on the app while playing your match, don't switch onto Instagram or other apps.</li>\r\n               <li>Ensure you have good internet connection when you play the match.</li>\r\n               <li>Avoid getting close to 0 seconds left on your turn.</li>\r\n               <li>Wait until the counter resets to 30 seconds before choosing attack, balance or defense.</li>\r\n             </ol>\r\n        ",
+      "brokenGame" : "You lost the game! Time for your turn expired.<br/><br/>\r\n             <div class='alert-recommendation-title'>There are some recommendations how to prevent disconnects playing matches</div>\r\n             <ol class='alert-recommendation-items'>\r\n               <li>Stay on the app while playing your match, don't switch onto Instagram or other apps.</li>\r\n               <li>Ensure you have good internet connection when you play the match.</li>\r\n               <li>Avoid getting close to 0 seconds left on your turn.</li>\r\n               <li>Wait until the counter resets to 30 seconds before choosing attack, balance or defense.</li>\r\n             </ol>\r\n        ",
+      "gameTurnExpired" : "You lost the game! You have not respond for your turn for a long.<br/><br/>\r\n             <div class='alert-recommendation-title'>There are some recommendations how to prevent disconnects playing matches</div>\r\n             <ol class='alert-recommendation-items'>\r\n               <li>Stay on the app while playing your match, don't switch onto Instagram or other apps.</li>\r\n               <li>Ensure you have good internet connection when you play the match.</li>\r\n               <li>Avoid getting close to 0 seconds left on your turn.</li>\r\n               <li>Wait until the counter resets to 30 seconds before choosing attack, balance or defense.</li>\r\n             </ol>\r\n        "
+    },
+    "rarityData" : {
+      "3" : {
+        "rarity" : 3,
+        "color" : "#ffd301"
+      },
+      "1" : {
+        "rarity" : 1,
+        "color" : "#fff"
+      },
+      "4" : {
+        "rarity" : 4,
+        "color" : "#ff1e3c"
+      },
+      "2" : {
+        "rarity" : 2,
+        "color" : "#38ff00"
+      },
+      "0" : {
+        "rarity" : 0,
+        "color" : "#d1d1d1"
+      },
+      "5" : {
+        "rarity" : 5,
+        "color" : "#9800ff"
+      }
+    },
+    "seasonInfo" : {
+      "endDateString" : "Next: 06 Nov",
+      "endDate" : "2023-11-06T18:00:00",
+      "id" : 1,
+      "startDate" : "2023-09-18T17:00:00",
+      "nextSeasonTimestamp" : 1699293600,
+      "description" : "<ul>What's new:  <li>New Pacwyn Pass. Free and Prime pass every season.</li> <li>Women's collections</li> <li>Community Season Awards. Great gifts for the most active users in the game.</li> <li>Association goals. Teamwork is a key.</li> <li>Association Tournament Qualification through Association Goals.</li> <li>Scout improvements.</li> <li>DSC Trading Wishlist.</li> <li>New boosters.</li> <li>Improved RTG Matchmaking.</li> <li>Draft Records Leaderboard.</li> <li>New security system.</li> <li>And even more...</li> </ul>",
+      "name" : "Season 1",
+      "nextSeasonDateDescription" : "Next season: 06 Nov 2023 18:00 UTC(+0)"
+    },
+    "tradingRestriction" : null,
+    "warningAccount" : null,
+    "termsConfirmed" : true,
+    "lookupFilter" : null,
+    "detailedStoreLogEnabled" : false,
+    "dailyGift" : null,
+    "instaPacks" : null,
+    "nameChangeDays" : 7,
+    "info" : {
+      "facebookName" : null,
+      "hasAppleAuth" : false,
+      "premiumType" : 2,
+      "accessId" : "J8mm5W/QXCxrOsAIoITYeWp85gKD7BdoAsMkSZdJWOX02eP8nqjW5JVQTTzYlLY3AoeZ4qK+LttSJHvGRrAEDQ==",
+      "currentXP" : 55,
+      "sessionId" : 269037588,
+      "name" : "🇳🇱🇵🇱🇿🇦",
+      "level" : 2,
+      "instagramFollowed" : true,
+      "createdDate" : "12 Oct 2023",
+      "hasGoogleAuth" : false,
+      "twitterName" : null,
+      "uniqueId" : "28383a72-2ea2-404c-a390-90ea96552889",
+      "nextXP" : 200,
+      "coins" : 5680000,
+      "tokens" : 2320,
+      "hasFacebookAuth" : true,
+      "requiredQualificationPoints" : 1500,
+      "qualificationPoints" : 55,
+      "profileId" : 1643403655,
+      "baseName" : "pacwyn"
+    },
+    "store" : {
+      "seasonPasses" : [
+        {
+          "productId" : "com.pacwyn24.pass.w1"
+        }
+      ],
+      "premium" : {
+        "id" : 12,
+        "features" : [
+          "Open x5 packs at once in My Packs section",
+          "Reward coins are increased for 20%",
+          "More daily attempts of mini-games",
+          "Allow to skip Walkout Animation",
+          "Free Premium Weekly Gift",
+          "Up to 15 squad slots",
+          "+3 booster slots",
+          "No Ads videos",
+          "No banners",
+          "2300 tokens"
+        ],
+        "productId" : "com.pacwyn24.account.w2"
+      },
+      "packages" : [
+        {
+          "purchaseType" : 1,
+          "id" : 11,
+          "rewardTokens" : 2300,
+          "productId" : "com.pacwyn24.box.w5",
+          "name" : "2300 Tokens",
+          "description" : "43% Free"
+        },
+        {
+          "purchaseType" : 1,
+          "id" : 10,
+          "rewardTokens" : 1200,
+          "productId" : "com.pacwyn24.box.w4",
+          "name" : "1200 Tokens",
+          "description" : "20% Free"
+        },
+        {
+          "purchaseType" : 1,
+          "id" : 9,
+          "rewardTokens" : 700,
+          "productId" : "com.pacwyn24.box.w3",
+          "name" : "700 Tokens",
+          "description" : "16% Free"
+        },
+        {
+          "purchaseType" : 1,
+          "id" : 8,
+          "rewardTokens" : 300,
+          "productId" : "com.pacwyn24.box.w2",
+          "name" : "300 Tokens",
+          "description" : null
+        },
+        {
+          "purchaseType" : 1,
+          "id" : 7,
+          "rewardTokens" : 100,
+          "productId" : "com.pacwyn24.box.w1",
+          "name" : "100 Tokens",
+          "description" : null
+        }
+      ]
+    },
+    "hasGifts" : false
+  }
+}
